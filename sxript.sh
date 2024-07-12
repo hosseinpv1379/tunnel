@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # آدرس مخزن و فایل پایتون در GitHub
-REPO_URL="Fhttps://raw.githubusercontent.com/hosseinpv1379/tunnel/main/tun.py"
+REPO_URL="https://raw.githubusercontent.com/hosseinpv1379/tunnel/main/tun.py"
 PYTHON_FILE="tun.py"
 
 # بررسی وجود پایتون 3
